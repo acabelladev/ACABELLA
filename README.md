@@ -134,7 +134,7 @@ List of variables obtained via the corruption of AA[j]:
 [*] Master key attack with corruption found: bp*k0[i] + -b*k1[i]
 ```
 
-The interested user could find many example inputs in JSON format at `ACABELLA/tools/acabella_cmd\examples`.
+The interested user could find many example inputs in JSON format at `ACABELLA/tools/acabella_cmd/examples`.
 
 ### `acabella_web`: The ACABELLA web application
 
